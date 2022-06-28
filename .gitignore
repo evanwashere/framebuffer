@@ -1,0 +1,4 @@
+wip_*
+.DS_Store
+bun.lockb
+node_modules/

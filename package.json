@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "main": "framebuffer.mjs",
+  "name": "@evan/framebuffer",
+
+  "devDependencies": {
+    "mitata": "^0.1.6"
+  },
+
+  "files": [
+    "LICENSE",
+    "ops/**/*.mjs",
+    "ops/**/*.wasm",
+    "framebuffer.mjs"
+  ]
+}
